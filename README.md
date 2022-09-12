@@ -1,9 +1,9 @@
 # Hello! I am Gustavo Garcia
-👋 Welcome to my repository 👋  where I attempt to share anything I am working on!
+👋 Welcome to my profile! 👋  Here I attempt to share anything I am working on
 
-- 📚 I'm currently a student looking for opportunities to learn and experience new things
-- 👀 I'm interested in developing web applications for fun and a variety of pruposes
-- 🌱 I’m currently learning new skills in data science and cloud dev ops
+- 🌊 I'm currently a software engineer working on cool projects
+- 👀 I'm interested in anything related to software development, deep learning, economics and VR
+- 📚 I'm constantly trying to lear new things!
 
 
 Find me on here:
